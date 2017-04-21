@@ -23,6 +23,12 @@ h3
    font-size: 20px;
    color: black;
 }
+h4
+{
+font-size: 50px;
+text-align: center;
+font-family:Arial, "Trebuchet MS", Helvetica, sans-serif;
+}
 a.ex1
 {
 text-decoration:none;
@@ -90,6 +96,23 @@ time {
   margin-right: 10px;
   overflow: auto;
   position: right;
+  border-style: solid;
+  border-width: 1px;
+  width: auto;
+  height: auto;
+}
+temperature {
+  background-color: rgb(0, 0, 0); /* Fallback if Browser doesnt support rgba */
+  background-color: rgba(0, 0, 0, 0.2); /* Clock Deckkraft */
+  border-radius:5px 5px 5px;
+  -o-border-radius:5px 5px 5px;
+  -webkit-border-radius:5px 5px 5px;
+  font-family:"Trebuchet MS",Arial, Helvetica, sans-serif;
+  -moz-border-radius:5px 5px 5px;
+  float: middle;
+  margin-right: 10px;
+  overflow: auto;
+  position: middle;
   border-style: solid;
   border-width: 1px;
   width: auto;
