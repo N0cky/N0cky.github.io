@@ -1,3 +1,3 @@
 function ChangeBG() {
-  $('body').css('background-image', 'url(http://bsnscb.com/data/out/193/39156485-tech-wallpapers.jpg)');
+  $('body').css('background-image', 'url(http://wallpaper-gallery.net/images/computer-technology-wallpaper/computer-technology-wallpaper-21.jpg)');
 }
