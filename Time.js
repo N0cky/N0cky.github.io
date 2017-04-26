@@ -1,3 +1,4 @@
+// Script für die Zeit auf der Website; Liest dafür die lokale PC Zeit aus.
 function startTime() {
   var today = new Date();
   var h = today.getHours();
